@@ -1,0 +1,409 @@
+{
+    "shows": [{
+        "name": "A Time For Jazz",
+        "uri": "11nQ2sHYynjmBTt2EC9n4i",
+        "times": [{
+            "day": "Saturday",
+            "start time": 12,
+            "end time": 15
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Alberta Morning",
+        "uri": "73Ywf3EpO5xa0tShVAH5Fy",
+        "times": [{
+            "day": "Monday",
+            "start time": 6,
+            "end time": 9
+        }, {
+            "day": "Tuesday",
+            "start time": 6,
+            "end time": 9
+        }, {
+            "day": "Wednesday",
+            "start time": 6,
+            "end time": 9
+        }, {
+            "day": "Thursday",
+            "start time": 6,
+            "end time": 9
+        }, {
+            "day": "Friday",
+            "start time": 6,
+            "end time": 9
+        }],
+
+        "lifespan": 7
+    }, {
+        "name": "Bel Musica",
+        "times": [{
+            "day": "Saturday",
+            "start time": 18,
+            "end time": 20
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "The Celtic Show",
+        "uri": "3rbSuwPPCK069B7cQuKl9r",
+        "times": [{
+            "day": "Friday",
+            "start time": 18,
+            "end time": 20
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Classic Examples",
+        "times": [{
+            "day": "Monday",
+            "start time": 20,
+            "end time": 22
+        }, {
+            "day": "Tuesday",
+            "start time": 20,
+            "end time": 22
+        }, {
+            "day": "Wednesday",
+            "start time": 20,
+            "end time": 22
+        }, {
+            "day": "Thursday",
+            "start time": 20,
+            "end time": 22
+        }],
+
+        "lifespan": 7
+    }, {
+        "name": "Dead Ends and Detours",
+        "uri": "6XFcrICFZNq3lpLmnJI7xo",
+        "times": [{
+            "day": "Saturday",
+            "start time": 8,
+            "end time": 10
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Folk Routes",
+        "uri": "3ek3CYqODtrEINnIbTRktZ",
+        "times": [{
+            "day": "Sunday",
+            "start time": 10,
+            "end time": 12
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Freeway",
+        "uri": "5s0Wa8pLIYJ6YtZ243QbhU",
+        "times": [{
+            "day": "Monday",
+            "start time": 16,
+            "end time": 18
+        }, {
+            "day": "Tuesday",
+            "start time": 16,
+            "end time": 18
+        }, {
+            "day": "Wednesday",
+            "start time": 16,
+            "end time": 18
+        }, {
+            "day": "Thursday",
+            "start time": 16,
+            "end time": 18
+        }, {
+            "day": "Friday",
+            "start time": 16,
+            "end time": 18
+        }],
+
+        "lifespan": 7
+    }, {
+        "name": "Friday Night Blues Party",
+        "uri": "1ThPGkjL328x14aEJYnKMp",
+        "times": [{
+            "day": "Friday",
+            "start time": 21,
+            "end time": 24
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "How I Hear It",
+        "uri": "11nQ2sHYynjmBTt2EC9n4i",
+        "times": [{
+            "day": "Monday",
+            "start time": 18,
+            "end time": 20
+        }, {
+            "day": "Tuesday",
+            "start time": 18,
+            "end time": 20
+        }, {
+            "day": "Wednesday",
+            "start time": 18,
+            "end time": 19
+        }, {
+            "day": "Thursday",
+            "start time": 18,
+            "end time": 20
+        }],
+
+        "lifespan": 7
+    }, {
+        "name": "In The Pines",
+        "uri": "224ho8lisyCoNIGYlWbMx2",
+        "times": [{
+            "day": "Sunday",
+            "start time": 12,
+            "end time": 13
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Lionel's Vinyl's",
+        "uri": "6zFWLvhNESkZz6xNRaPOrn",
+        "times": [{
+            "day": "Sunday",
+            "start time": 19,
+            "end time": 21
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Mid-Morning Mojo",
+        "uri": "1MQJAuRjmIvF9t74gEnoNe",
+        "times": [{
+            "day": "Monday",
+            "start time": 9,
+            "end time": 12
+        }, {
+            "day": "Tuesday",
+            "start time": 9,
+            "end time": 12
+        }, {
+            "day": "Wednesday",
+            "start time": 9,
+            "end time": 12
+        }, {
+            "day": "Thursday",
+            "start time": 9,
+            "end time": 12
+        }, {
+            "day": "Friday",
+            "start time": 9,
+            "end time": 12
+        }],
+
+        "lifespan": 7
+    }, {
+        "name": "Mixtape",
+        "uri": "1HXX771D7gw9GMgbrtXGmu",
+        "times": [{
+            "day": "Wednesday",
+            "start time": 19,
+            "end time": 20
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Mulligan Stew",
+        "uri": "0VPF37bbuwAaTZSMyvmjjo",
+        "times": [{
+            "day": "Saturday",
+            "start time": 17,
+            "end time": 19
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Natch'l Blues",
+        "uri": "0TZF3CnUQJHrFwTOjA4cJC",
+        "times": [{
+            "day": "Saturday",
+            "start time": 15,
+            "end time": 17
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Old DJ",
+        "times": [{
+            "day": "Sunday",
+            "start time": 14,
+            "end time": 15
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Play It Again",
+        "times": [{
+            "day": "Sunday",
+            "start time": 9,
+            "end time": 10
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "The Road Home",
+        "uri": "6zILlaT9PtJHVzLynUoktY",
+        "times": [{
+            "day": "Sunday",
+            "start time": 20,
+            "end time": 22
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Roy's Record Room",
+        "uri": "5Y0WYzEhzNOUqUijhu9DTR",
+        "times": [{
+            "day": "Sunday",
+            "start time": 13,
+            "end time": 14
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Saturday Breakfast",
+        "uri": "7dThMNqmnOYtt3eP24BFwu",
+        "times": [{
+            "day": "Sunday",
+            "start time": 6,
+            "end time": 8
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Somethin' Else",
+        "uri": "06SDE0GNm7IZw3WN8DDFyT",
+        "times": [{
+            "day": "Monday",
+            "start time": 14,
+            "end time": 16
+        }, {
+            "day": "Tuesday",
+            "start time": 14,
+            "end time": 16
+        }, {
+            "day": "Wednesday",
+            "start time": 14,
+            "end time": 16
+        }, {
+            "day": "Thursday",
+            "start time": 14,
+            "end time": 16
+        }, {
+            "day": "Friday",
+            "start time": 14,
+            "end time": 16
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "Stardust",
+        "uri": "4DOFaAdohOD3eYCEhYOrx2",
+        "times": [{
+            "day": "Sunday",
+            "start time": 22,
+            "end time": 24
+        }, {
+            "day": "Monday",
+            "start time": 22,
+            "end time": 24
+        }, {
+            "day": "Tuesday",
+            "start time": 22,
+            "end time": 24
+        }, {
+            "day": "Wednesday",
+            "start time": 22,
+            "end time": 24
+        }, {
+            "day": "Thursday",
+            "start time": 22,
+            "end time": 24
+        }],
+
+        "lifespan": 7
+    }, {
+        "name": "Sunday Breakfast",
+        "uri": "19UrNhP0sx66YBf2fTOMcR",
+        "times": [{
+            "day": "Sunday",
+            "start time": 6,
+            "end time": 9
+        }],
+
+        "lifespan": 28
+    }, {
+        "name": "The Spot",
+        "uri": "6V7JdVUXg78dNY6QSn5HPi",
+        "times": [{
+            "day": "Monday",
+            "start time": 12,
+            "end time": 14
+        }, {
+            "day": "Tuesday",
+            "start time": 12,
+            "end time": 14
+        }, {
+            "day": "Wednesday",
+            "start time": 12,
+            "end time": 14
+        }, {
+            "day": "Thursday",
+            "start time": 12,
+            "end time": 14
+        }, {
+            "day": "Friday",
+            "start time": 12,
+            "end time": 14
+        }],
+
+        "lifespan": 7
+    }, {
+        "name": "Voices In Jazz",
+        "uri": "2HiIyK88rS34LzC6IWr2Ke",
+        "times": [{
+            "day": "Sunday",
+            "start time": 15,
+            "end time": 16
+        }],
+
+        "lifespan": 7
+    }, {
+        "name": "TransCanada Music West",
+        "uri": "1QKovIOgZ2jwGBeBbLpYPy",
+        "times": [{
+            "day": "Friday",
+            "start time": 20,
+            "end time": 21
+        }],
+
+        "lifespan": 7
+    }, {
+        "name": "Wide Cut Country",
+        "uri": "1xl0YGGfalyzpZOPMSuDJb",
+        "times": [{
+            "day": "Saturday",
+            "start time": 10,
+            "end time": 12
+        }],
+
+        "lifespan": 7
+    }, {
+        "name": "World Spinning",
+        "uri": "1zJy5nfFa5DpqyAG3xcMpq",
+        "times": [{
+            "day": "Sunday",
+            "start time": 16,
+            "end time": 18
+        }],
+
+        "lifespan": 7
+    }]
+}
