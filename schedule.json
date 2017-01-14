@@ -1,5 +1,39 @@
 {
     "shows": [{
+        "name": "Master Playlist",
+        "uri": "54neuNjfHiHUG26FuWjpDB",
+        "times": [{
+            "day": "Monday",
+            "start time": 0,
+            "end time": 24
+        }, {
+            "day": "Tuesday",
+            "start time": 0,
+            "end time": 24
+        }, {
+            "day": "Wednesday",
+            "start time": 0,
+            "end time": 24
+        }, {
+            "day": "Thursday",
+            "start time": 0,
+            "end time": 24
+        }, {
+            "day": "Friday",
+            "start time": 0,
+            "end time": 24
+        }, {
+            "day": "Saturday",
+            "start time": 0,
+            "end time": 24
+        }, {
+            "day": "Sunday",
+            "start time": 0,
+            "end time": 24
+        }],
+
+        "lifespan": 28
+    },{
         "name": "A Time For Jazz",
         "uri": "11nQ2sHYynjmBTt2EC9n4i",
         "times": [{
